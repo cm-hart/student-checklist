@@ -2,6 +2,33 @@
   text-align: center;
 }
 
+form {
+  background-color: #e6d8e1;
+  width: 20%;
+  margin: 5em auto;
+  font-size: 3em;
+  padding: 1em;
+  text-align: start;
+}
+
+input.check-box {
+  width: 50px;
+  height: 50px;
+}
+
+button {
+  width: 50%;
+  margin: 2em auto;
+  padding: 0.3em;
+  font-size: 1em;
+  margin-left: 1.8em;
+}
+
+.label-input-wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
