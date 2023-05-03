@@ -1,5 +1,12 @@
 .App {
   text-align: center;
+  background-color: #0d9aa9;
+  height: 100vh;
+  padding: 2em;
+}
+
+.form-wrapper {
+  text-align: start;
 }
 
 form {
@@ -8,7 +15,6 @@ form {
   margin: 5em auto;
   font-size: 2em;
   padding: 1em;
-  text-align: start;
 }
 
 input.check-box {
