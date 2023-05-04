@@ -29,12 +29,7 @@ function App() {
             </label>
             <input className="check-box" type="checkbox" name="student-check" />
           </div>
-          <div className="label-input-wrapper">
-            <label for="student-name" name="student-check">
-              Jazmine
-            </label>
-            <input className="check-box" type="checkbox" name="student-check" />
-          </div>
+
           <div className="label-input-wrapper">
             <label for="student-name" name="student-check">
               Jiggii
@@ -49,7 +44,7 @@ function App() {
           </div>
           <div className="label-input-wrapper">
             <label for="student-name" name="student-check">
-              Melinda
+              Scarlett
             </label>
             <input className="check-box" type="checkbox" name="student-check" />
           </div>
